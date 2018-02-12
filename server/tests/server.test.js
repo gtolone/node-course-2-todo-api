@@ -32,3 +32,10 @@ describe('POST /todos', () => {
     });
   });
 });
+
+// describe('GET /todos/:id', () => {
+//   it('should return todo doc', (done) => {
+//     request(app)
+//     .get()
+//   })
+// });
